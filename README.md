@@ -10,7 +10,7 @@ The project uses Python for data preparation, SQL for business analysis, and Pow
 
 ### Revenue Overview
 
-![Revenue Overview](Screenshots/revenue-dashboard.png)
+![Revenue Overview](Screenshots/revenue-overview.png)
 
 ### Business Insights
 
